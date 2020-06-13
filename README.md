@@ -12,3 +12,4 @@
 - [AdyNAS](https://adynas.local:5001)
 - [UPS Monitor](http://adynuc.local:3001/d/FBsdas/ups-dashboard?refresh=1m&orgId=1&var-kwhprice=0.12&var-maxwatt=865&var-currency=$&var-upsdatasource=ups)
 - [Unifi Monitor](http://adynuc.local:3000/d/YVR23BZiz/unifi-poller-client-insights-influxdb?orgId=1)
+- [BlueIris Web](http://192.168.10.74:81/l)
